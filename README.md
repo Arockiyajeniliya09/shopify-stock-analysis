@@ -86,5 +86,42 @@ Shopify-Stock-Analysis/
 ├── Shopify_Stock_Analysis.ipynb
 ├── README.md
 │
-└── i
+└── images/
+    ├── stock_price.png
+    ├── trading_volume.png
+    └── moving_average.png
 ```
+
+## 🚀 How to Run the Project
+
+1. Download or clone this repository.
+2. Open the project in **Jupyter Notebook** or **Google Colab**.
+3. Install the required Python libraries if needed.
+
+```bash
+pip install pandas matplotlib seaborn
+```
+
+4. Load the Shopify stock dataset.
+5. Run the notebook cells step by step.
+6. View the generated analysis and visualizations.
+
+## 💡 Key Insights
+
+The analysis can be used to identify:
+
+1. Overall Shopify stock price trends.
+2. Periods of significant price increases or decreases.
+3. Relationship between trading volume and price movements.
+4. Short-term and long-term price patterns.
+5. Overall historical performance of Shopify stock.
+
+## ⚠️ Disclaimer
+
+This project is created for **educational and data-analysis purposes only**. The analysis should not be considered financial or investment advice.
+
+## 👩‍💻 Author
+
+**Jeniliya**
+
+This project demonstrates basic skills in **Python, Pandas, data analysis, and data visualization**.
